@@ -20,6 +20,7 @@ Driven by curiosity and discipline, I’m on a transformative 365-day journey to
 
 ### 🔥 Featured Projects
 - **[RAGenius](https://github.com/yashchaudhari143/RAGenius)** — Advanced RAG Knowledge Assistant with hybrid search and local LLM capabilities
+- **[SwarmNexus](https://github.com/yashchaudhari143/SwarmNexus)** — A production-grade, multi-agent job intelligence platform — resume vault, live job feeds, interview prep, application tracking, community blogs, and market news — orchestrated by LangGraph and delivered through a premium editorial experience.
 
 ### 📈 My GitHub Activity
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashchaudhari143&show_icons=true&theme=tokyonight&hide_border=true)
