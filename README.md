@@ -27,7 +27,7 @@ Driven by curiosity and discipline, I’m on a transformative 365-day journey to
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchaudhari143&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🌐 Let's Connect & Collaborate
-- X: [@TimeToLearnAI](https://x.com/TimeToLearnAI) (daily AI/ML journey)
+
 - Email: [yashchaudhari6405@gmail.com]
 - Open to mentorship, project collaborations, and exciting opportunities in AI/ML
 
