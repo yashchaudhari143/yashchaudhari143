@@ -13,9 +13,11 @@
 ---
 
 ### About Me
-Aspiring AI/ML Engineer focused on designing and shipping production-grade intelligent systems. I build intelligent products at the intersection of software engineering, AI, and automation — turning ambitious ideas into platforms people actually use. Swarm Nexus is one example: a full-stack, multi-agent system that unifies the entire job search into one cohesive experience.
+
+Aspiring AI/ML Engineer focused on designing and shipping production-grade intelligent systems. I build intelligent products at the intersection of software engineering, AI, and automation — turning ambitious ideas into platforms people actually use. 
 
 My focus is scalable, user-centric architecture that simplifies complexity without dumbing it down. I combine modern LLM orchestration with disciplined engineering to ship tools that save time, raise the bar on quality, and open real career leverage for the people who rely on them
+
 ---
 
 ### 🛠️ Tech Stack
@@ -48,14 +50,6 @@ The Ultimate RAG Knowledge Assistant with Hybrid Search & Local LLM Support.
 
 **🤖 [SwarmNexus](https://github.com/yashchaudhari143/SwarmNexus)**
 Production-grade Multi-Agent AI Job Intelligence Platform.
-
----
-
-### 📊 GitHub Activity
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashchaudhari143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchaudhari143&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
