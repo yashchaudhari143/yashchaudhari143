@@ -1,50 +1,67 @@
-# Hi, I'm Yash Chaudhari 👋
+<div align="center">
+<h1>Hi, I'm Yash Chaudhari 👋</h1>
+<h3>Aspiring AI/ML Engineer | RAG Systems & Multi-Agent AI Architectures</h3>
 
-**Aspiring AI/ML Engineer**
-Driven by curiosity and discipline, I’m on a transformative 365-day journey to master Artificial Intelligence and Machine Learning — building in public every single day.
-
-### 🚀 My Public Learning Journey
-- Turning complex concepts into practical knowledge
-- Daily code, projects, and transparent progress
-- Committed to becoming a high-impact AI engineer who creates intelligent solutions
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FF9F00?logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- SQL • Git • Docker • Cloud Fundamentals
-
-### 🔥 Featured Projects
-- **[RAGenius](https://github.com/yashchaudhari143/RAGenius)** — Advanced RAG Knowledge Assistant with hybrid search and local LLM capabilities
-- **[SwarmNexus](https://github.com/yashchaudhari143/SwarmNexus)** — A production-grade, multi-agent job intelligence platform — resume vault, live job feeds, interview prep, application tracking, community blogs, and market news — orchestrated by LangGraph and delivered through a premium editorial experience.
-
-### 📈 My GitHub Activity
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashchaudhari143&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchaudhari143&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🌐 Let's Connect & Collaborate
-
-- Email: [yashchaudhari6405@gmail.com]
-- Open to mentorship, project collaborations, and exciting opportunities in AI/ML
+<p>
+<a href="mailto:yashchaudhari6405@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=yashchaudhari143&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+</div>
 
 ---
-*Passionate learner on a mission to master AI/ML. Consistent daily progress, real projects, and full transparency. Follow my journey and let's build the future of intelligent systems together!*
 
-<!--
-**yashchaudhari143/yashchaudhari143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Aspiring AI/ML Engineer focused on designing and shipping production-grade intelligent systems. I build intelligent products at the intersection of software engineering, AI, and automation — turning ambitious ideas into platforms people actually use. Swarm Nexus is one example: a full-stack, multi-agent system that unifies the entire job search into one cohesive experience.
 
-Here are some ideas to get you started:
+My focus is scalable, user-centric architecture that simplifies complexity without dumbing it down. I combine modern LLM orchestration with disciplined engineering to ship tools that save time, raise the bar on quality, and open real career leverage for the people who rely on them
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**Tools & Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+FAISS • ChromaDB • Tailwind • SQL • JWT
+
+---
+
+### 🔥 Featured Projects
+
+**🔍 [RAGenius](https://github.com/yashchaudhari143/RAGenius)**
+The Ultimate RAG Knowledge Assistant with Hybrid Search & Local LLM Support.
+
+**🤖 [SwarmNexus](https://github.com/yashchaudhari143/SwarmNexus)**
+Production-grade Multi-Agent AI Job Intelligence Platform.
+
+---
+
+### 📊 GitHub Activity
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashchaudhari143&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashchaudhari143&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌐 Open to Opportunities
+Actively seeking **AI/ML Engineer**, **AI Developer**, and **Full-Stack AI** roles or internships.
+
+Let's connect if you're building cutting-edge AI systems!
+
+**Email**: yashchaudhari6405@gmail.com
